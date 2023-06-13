@@ -48,4 +48,9 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 
+## Data
+# L1
 others/
+
+# L2
+ICPSR_35206/
