@@ -48,6 +48,8 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 
+.vscode/
+
 ## Data
 # L1
 others/
